@@ -13,4 +13,4 @@ print(f'O vetor é: \n'
       f'O maior número do vetor é: \n'
       f'{max(vetor)} \n'
       f'A posição do maior número do vetor é: \n'
-      f'{vetor.index(max(vetor))} \n\')
+      f'{vetor.index(max(vetor))} \n')
